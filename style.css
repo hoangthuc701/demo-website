@@ -2,7 +2,14 @@
   list-style:none;
   display: flex;
   justify-content: flex-end;
+  background-color:#4fccff;
+  height: 50px;
+  gap:20px;
 }
 .li {
-  background-color
+  color: white;
+  padding: 10px;
+}
+.li: hover {
+ color: blue;
 }
